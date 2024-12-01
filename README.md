@@ -33,7 +33,6 @@ This project demonstrates the application of reinforcement learning to train an 
    ```bash
    git clone https://github.com/Parvatkhattak/Super-Mario-Bros-RL.git
    cd Super-Mario-Bros-RL
-
 2. Install dependencies
   ```bash
   pip install -r requirements.txt
@@ -41,7 +40,7 @@ This project demonstrates the application of reinforcement learning to train an 
 3. Run the project
 ```bash
 python main.py
-
+```
 
 
 
